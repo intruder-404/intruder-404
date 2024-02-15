@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=intruder-404&label=Profile%20views&color=0e75b6&style=flat" alt="intruder-404" /> </p>
 
-- 🔭 I’m currently working on **computer vision and feature engineering**
+- 🔭 I’m currently working on **transformers for computer vision**
 
 - 👯 I’m looking to collaborate on **computer-vision projects(sp. human-concerning)**
 
