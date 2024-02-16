@@ -1,7 +1,6 @@
 <h1 align="center">Avi</h1>
 <h3 align="center">Passionate ML/DL Engineer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=intruder-404&label=Profile%20views&color=0e75b6&style=flat" alt="intruder-404" /> </p>
 
 - 🔭 I’m currently working on **transformers for computer vision**
 
