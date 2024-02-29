@@ -1,10 +1,10 @@
-<h1 align="center">Avi K</h1>
-<h3 align="center">Deep Learning</h3>
+<h1 align="center"><i>Deep Learning</i></h1>
+<h3 align="center"></h3>
 
 
-- We will commodotize the petaflop
+We will commodotize the petaflop
 
--  **avikc.copy@gmail.com**
+**avikc.copy@gmail.com**
 
 <h3 align="left"></h3>
 <p align="left">
