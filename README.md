@@ -1,14 +1,12 @@
-<h1 align="center">Avi</h1>
-<h3 align="center">Passionate ML/DL Engineer from Nepal</h3>
+<h1 align="center">Avi K</h1>
+<h3 align="center">Deep Learning</h3>
 
 
-- 🔭 I’m currently working on **transformers for computer vision**
+- We will commodotize the petaflop
 
-- 👯 I’m looking to collaborate on **computer-vision projects(sp. human-concerning)**
+-  **avikc.copy@gmail.com**
 
-- 📫 How to reach me **avikc.copy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
